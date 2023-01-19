@@ -386,7 +386,7 @@ img {
 }
 
 .customers-item {
-  width: calc((100%-168px) / 6);
+  width: 168px;
   height: 88px;
 }
 
@@ -528,7 +528,7 @@ img {
   width: 360px;
   margin-right: 24px;
   margin-bottom: 48px;
-  border: 1px solid var(--second-text-color);
+
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 .examples-img-item:nth-child(n + 7) {
