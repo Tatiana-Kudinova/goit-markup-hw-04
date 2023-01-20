@@ -200,7 +200,8 @@ img {
 .hero {
   padding-top: 188px;
   padding-bottom: 188px;
-
+  padding-left: 15px;
+  padding-right: 15px;
   background-color: var(--main-text-color);
 
   background-image: linear-gradient(
